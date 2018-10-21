@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amithgeorge/testing-changelog-generation/issues"
   },
-  "homepage": "https://github.com/amithgeorge/testing-changelog-generation#readme"
+  "homepage": "https://github.com/amithgeorge/testing-changelog-generation#readme",
+  "devDependencies": {
+    "semantic-release": "^15.10.5"
+  }
 }
